@@ -1,0 +1,14 @@
+{
+  "name": "bit-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./test/index.test.js",
+    "tsc":"tsc"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {}
+}
